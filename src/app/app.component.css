@@ -1,0 +1,25 @@
+
+body {
+    background: #15202B;
+    color: aliceblue;
+}
+
+.app-component
+{
+    height: 100vh;
+}
+
+#app-header
+{
+    float: left;
+    background: #15202B;
+    padding: 5px;
+    border-right: 1px solid #38444d;
+}
+#app-router
+{
+    float: right;
+    background: #15202B;
+    padding: 30px;
+}
+

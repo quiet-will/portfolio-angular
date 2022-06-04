@@ -1,0 +1,61 @@
+.app-header
+{
+    margin-top: 20px;
+}
+.img-perfil
+{
+    width: 50%;
+    margin-top: 30px;
+    border-radius:  110px;
+
+}
+
+nav > a 
+{
+    color: #EE1289;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav 
+{
+    margin-top: 25px;;
+}
+
+ 
+#img-header
+{
+    color: white;
+    text-decoration: none;
+}
+
+.nome-titulo
+{
+    font-size: 20px;
+}
+
+.conhecimento-titulo
+{
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+
+#linkedin > a
+{
+    color: #0b65c4
+}
+
+#twitter
+{
+    color: #1d9bf0;
+}
+
+#github
+{
+    color: #f1f6fc
+}
+
+#meetup
+{
+    color: #f55857
+}

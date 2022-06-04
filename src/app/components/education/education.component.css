@@ -1,0 +1,21 @@
+.page-title
+{
+    font-size: 20px;
+    margin-bottom: 100px;
+    font-weight: bold;
+    color:#EE1289;
+}
+.page-indication
+{
+    font-size: 20px;
+    color: LightGray;
+}
+
+.page-sub-indication
+{
+    font-size: 15px;
+}
+
+.page-title-content{}
+
+.content{}
